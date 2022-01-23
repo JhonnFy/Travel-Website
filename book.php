@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Home</title>
+    <title>About</title>
 
     <!--Link Swiper-->
     <link rel="stylesheet" href="https://unpkg.com/swiper@7/swiper-bundle.min.css" />
@@ -16,7 +16,7 @@
 </head>
 
 <body>
-
+    
     <!--Header Section Starts-->
     <section class="header">
         <a href="home.php" class="logo">Travel</a>
@@ -31,6 +31,10 @@
         <div id="menu-btn" class="fas fa-bars"></div>
     </section>
     <!--Header Section Ends-->
+
+    <div class="heading" style="background:url(img/header-bg-3.png) no-repeat;">
+        <h1>Book Now</h1>
+    </div>
 
     <!--Footer Section Starts-->
     <section class="footer">
@@ -66,7 +70,8 @@
                 <a href="#"><i class="fab fa-twitter"></i>twitter</a>
                 <a href="#"><i class="fab fa-instagram"></i>instagram</a>
                 <a href="#"><i class="fab fa-linkedin"></i>linkedin</a>
-            </div> 
+            </div>
+
         </div>
 
         <div class="credit">Created By <span>Mr.WebDesinger</span> |All Rights Reserved|</div>
