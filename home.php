@@ -32,6 +32,46 @@
     </section>
     <!--Header Section Ends-->
 
+
+    <!--Services Section Starts-->
+    <section class="services">
+        <h1 class="heading-tittle">Our Services</h1>
+        <div class="box-container">
+
+            <div class="box">
+                <img src="img/icon-1.png" alt="">
+                <h3>Adventure</h3>
+            </div>
+
+            <div class="box">
+                <img src="img/icon-2.png" alt="">
+                <h3>Tour Guide</h3>
+            </div>
+
+            <div class="box">
+                <img src="img/icon-3.png" alt="">
+                <h3>Trekking</h3>
+            </div>
+
+            <div class="box">
+                <img src="img/icon-4.png" alt="">
+                <h3>Camp Fire</h3>
+            </div>
+
+            <div class="box">
+                <img src="img/icon-5.png" alt="">
+                <h3>Off Road</h3>
+            </div>
+
+            <div class="box">
+                <img src="img/icon-6.png" alt="">
+                <h3>Camping</h3>
+            </div>
+
+        </div>
+    </section>
+    <!--Services Section Ends-->
+
     <!--Footer Section Starts-->
     <section class="footer">
         <div class="box-container">
@@ -57,7 +97,7 @@
                 <a href="#"><i class="fas fa-phone"></i>+(031)123456789</a>
                 <a href="#"><i class="fas fa-phone"></i>+(57)111-222-333</a>
                 <a href="#"><i class="fas fa-envelope"></i>tvlwebdesing@gmail.com</a>
-                <a href="#"><i class="fas fa-angle-right"></i>C2 S #9-67 Bogota DC</a>
+                <a href="#"><i class="fas fa-map"></i>C2 S #9-67 Bogota DC</a>
             </div>
 
             <div class="box">
@@ -66,7 +106,7 @@
                 <a href="#"><i class="fab fa-twitter"></i>twitter</a>
                 <a href="#"><i class="fab fa-instagram"></i>instagram</a>
                 <a href="#"><i class="fab fa-linkedin"></i>linkedin</a>
-            </div> 
+            </div>
         </div>
 
         <div class="credit">Created By <span>Mr.WebDesinger</span> |All Rights Reserved|</div>
@@ -79,4 +119,5 @@
     <script src="js/script.js"></script>
 
 </body>
+
 </html>

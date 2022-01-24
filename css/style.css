@@ -4,7 +4,7 @@
 :root{
     --main-color:#8e44ad;
     --black:#222;
-    --white:#fff9;
+    --white:#fff;
     --light-black:#777;
     --light-white:#fff;
     --dark-bg:#rgba(0,0,0,.7);
@@ -44,6 +44,14 @@ section{
     padding:5rem 10%;
 }
 
+.heading-tittle{
+    text-align: center;
+    margin-bottom: 3rem;
+    font-size: 6rem;
+    text-transform: uppercase;
+    color:var(--black);
+}
+
 .header{
     position: sticky;
     top:0; left:0; right:0;
@@ -79,6 +87,8 @@ section{
     display: none; 
 }
 
+
+
 .footer{
     background: url(../img/footer-bg.jpg) no-repeat;
     background-size: cover;
@@ -87,22 +97,22 @@ section{
 
 .footer .box-container{
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(25rem, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(24rem, 1fr));
     gap:3rem;
-}
+} 
 
 .footer .box-container .box h3{
     color: var(--white);
     font-size: 2.5rem;
     padding-bottom: 2rem;
-}
+} 
 
 .footer .box-container .box a{
     color: var(--light-white);
     font-size: 1.5rem;
     padding-bottom: 1.5rem;
     display: block;
-}
+} 
 
 .footer .box-container .box a i{
     color:var(--main-color);
@@ -127,12 +137,32 @@ section{
     color: var(--main-color);
 }
 
+.services .box-container{
+    display: grid;
+    grid-template-columns: repeat(auto-fit,minmax(16rem, 1fr));
+    gap:1.5rem;
+}
 
+.services .box-container .box{
+    padding: 3rem 2rem;
+    text-align: center;
+    background:var(--main-color);
+    cursor: pointer;
+}
 
+.services .box-container .box:hover{
+    background: var(--black);
+}
 
+.services .box-container .box img{
+    height: 7rem;
+}
 
-
-
+.services .box-container .box h3{
+    color:var(--white);
+    font-size: 1.7rem;
+    padding-top: 1rem;
+}
 
 
 /*Media Queries*/
@@ -183,10 +213,14 @@ section{
         margin: 2rem;
         text-align: center;
     }
-}
+} 
 
 @media (max-width:450px){
     html{
         font-size: 50%;
+    }
+
+    .heading-tittle{
+        font-size: 3.5rem;
     }
 }
