@@ -69,7 +69,6 @@
     </section>
     <!--Home Section Ends-->
 
-
     <!--Services Section Starts-->
     <section class="services">
         <h1 class="heading-tittle">Our Services</h1>
@@ -108,6 +107,20 @@
         </div>
     </section>
     <!--Services Section Ends-->
+
+        <!--Home About Section Starts-->
+        <section class="home-about">
+        <div class="image">
+            <img src="img/about-img.jpg" alt="">
+        </div>
+
+    <div class="content">
+    <h3>About Us</h3>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus nesciunt maiores porro, commodi sequi sit sunt earum officiis, ad voluptas delectus fugiat autem voluptatum provident molestias? Obcaecati nesciunt tempore possimus!</p>
+    <a href="about.php" class="btn">Read More</a>
+    </div>
+    </section>
+    <!--Home SEction Ends-->
 
     <!--Footer Section Starts-->
     <section class="footer">
