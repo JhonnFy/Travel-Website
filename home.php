@@ -120,7 +120,54 @@
     <a href="about.php" class="btn">Read More</a>
     </div>
     </section>
-    <!--Home SEction Ends-->
+    <!--Home About Section Ends-->
+
+    <!--Home Packages Section Starts-->
+    <section class="home-packages">
+    <h1 class="heading-tittle">Our Packages</h1>
+        <div class="box-container">
+
+            <div class="box">
+                <div class="image">
+                    <img src="img/img-1.jpg" alt="">
+                </div>
+                <div class="content">
+                    <h3>Adventura & Tour</h3>
+                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</p>
+                    <a href="book.php" class="btn">Book Now</a>
+                </div>
+            </div>
+
+            <div class="box">
+                <div class="image">
+                    <img src="img/img-2.jpg" alt="">
+                </div>
+                <div class="content">
+                    <h3>Adventura & Tour</h3>
+                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</p>
+                    <a href="book.php" class="btn">Book Now</a>
+                </div>
+            </div>
+
+            <div class="box">
+                <div class="image">
+                    <img src="img/img-3.jpg" alt="">
+                </div>
+                <div class="content">
+                    <h3>Adventura & Tour</h3>
+                    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit.</p>
+                    <a href="book.php" class="btn">Book Now</a>
+                </div>
+            </div>
+
+        </div>
+
+        <div class="load-more"> <a href="package.php" class="btn">Load More</a></div>
+
+
+    </section>
+    <!--Home Packages Section Ends-->
+
 
     <!--Footer Section Starts-->
     <section class="footer">
