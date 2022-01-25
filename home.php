@@ -108,23 +108,25 @@
     </section>
     <!--Services Section Ends-->
 
-        <!--Home About Section Starts-->
-        <section class="home-about">
+    <!--Home About Section Starts-->
+    <section class="home-about">
         <div class="image">
             <img src="img/about-img.jpg" alt="">
         </div>
 
-    <div class="content">
-    <h3>About Us</h3>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus nesciunt maiores porro, commodi sequi sit sunt earum officiis, ad voluptas delectus fugiat autem voluptatum provident molestias? Obcaecati nesciunt tempore possimus!</p>
-    <a href="about.php" class="btn">Read More</a>
-    </div>
+        <div class="content">
+            <h3>About Us</h3>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Accusamus nesciunt maiores porro, commodi sequi
+                sit sunt earum officiis, ad voluptas delectus fugiat autem voluptatum provident molestias? Obcaecati
+                nesciunt tempore possimus!</p>
+            <a href="about.php" class="btn">Read More</a>
+        </div>
     </section>
     <!--Home About Section Ends-->
 
     <!--Home Packages Section Starts-->
     <section class="home-packages">
-    <h1 class="heading-tittle">Our Packages</h1>
+        <h1 class="heading-tittle">Our Packages</h1>
         <div class="box-container">
 
             <div class="box">
@@ -161,12 +163,20 @@
             </div>
 
         </div>
-
         <div class="load-more"> <a href="package.php" class="btn">Load More</a></div>
-
-
     </section>
     <!--Home Packages Section Ends-->
+
+    <!--Home Offer Section Starts-->
+    <section class="home-offer">
+    <div class="content">
+        <h3>Upto 50% Off</h3>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci voluptatem molestiae repellendus obcaecati earum eius quos maiores voluptatum minus quisquam, deleniti nihil ipsum quasi illo at, maxime sed hic commodi.</p>
+        <a href="book.php" class="btn">Book Now</a>
+    </div>
+    </section>
+    <!--Home Offer Section Ends-->
+    
 
 
     <!--Footer Section Starts-->
