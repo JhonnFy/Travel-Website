@@ -32,6 +32,8 @@
     </section>
     <!--Header Section Ends-->
 
+    
+
     <!--Home Section Starts-->
     <section class="home">
         <div class="swiper home-slider">
