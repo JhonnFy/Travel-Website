@@ -36,6 +36,148 @@
         <h1>Packages</h1>
     </div>
 
+
+    <!--Packages Sections Starts-->
+    <section class="packages">
+        <h1 class="heading-title">Top Destinations</h1>
+            <div class="box-container">
+
+                <div class="box">
+                    <div class="image">
+                        <img src="img/img-1.jpg" alt="">
+                    </div>
+                    <div class="content">
+                        <h3>Adventura & Tour</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, error!</p>
+                        <a href="book.php" class="btn">Book Now</a>
+                    </div>
+                </div>
+
+                <div class="box">
+                    <div class="image">
+                        <img src="img/img-2.jpg" alt="">
+                    </div>
+                    <div class="content">
+                        <h3>Adventura & Tour</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, error!</p>
+                        <a href="book.php" class="btn">Book Now</a>
+                    </div>
+                </div>
+
+                <div class="box">
+                    <div class="image">
+                        <img src="img/img-3.jpg" alt="">
+                    </div>
+                    <div class="content">
+                        <h3>Adventura & Tour</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, error!</p>
+                        <a href="book.php" class="btn">Book Now</a>
+                    </div>
+                </div>
+
+                <div class="box">
+                    <div class="image">
+                        <img src="img/img-4.jpg" alt="">
+                    </div>
+                    <div class="content">
+                        <h3>Adventura & Tour</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, error!</p>
+                        <a href="book.php" class="btn">Book Now</a>
+                    </div>
+                </div>
+
+                <div class="box">
+                    <div class="image">
+                        <img src="img/img-5.jpg" alt="">
+                    </div>
+                    <div class="content">
+                        <h3>Adventura & Tour</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, error!</p>
+                        <a href="book.php" class="btn">Book Now</a>
+                    </div>
+                </div>
+
+                <div class="box">
+                    <div class="image">
+                        <img src="img/img-6.jpg" alt="">
+                    </div>
+                    <div class="content">
+                        <h3>Adventura & Tour</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, error!</p>
+                        <a href="book.php" class="btn">Book Now</a>
+                    </div>
+                </div>
+
+                <div class="box">
+                    <div class="image">
+                        <img src="img/img-7.jpg" alt="">
+                    </div>
+                    <div class="content">
+                        <h3>Adventura & Tour</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, error!</p>
+                        <a href="book.php" class="btn">Book Now</a>
+                    </div>
+                </div>
+
+                <div class="box">
+                    <div class="image">
+                        <img src="img/img-8.jpg" alt="">
+                    </div>
+                    <div class="content">
+                        <h3>Adventura & Tour</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, error!</p>
+                        <a href="book.php" class="btn">Book Now</a>
+                    </div>
+                </div>
+
+                <div class="box">
+                    <div class="image">
+                        <img src="img/img-9.jpg" alt="">
+                    </div>
+                    <div class="content">
+                        <h3>Adventura & Tour</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, error!</p>
+                        <a href="book.php" class="btn">Book Now</a>
+                    </div>
+                </div>
+
+                <div class="box">
+                    <div class="image">
+                        <img src="img/img-10.jpg" alt="">
+                    </div>
+                    <div class="content">
+                        <h3>Adventura & Tour</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, error!</p>
+                        <a href="book.php" class="btn">Book Now</a>
+                    </div>
+                </div>
+
+                <div class="box">
+                    <div class="image">
+                        <img src="img/img-11.jpg" alt="">
+                    </div>
+                    <div class="content">
+                        <h3>Adventura & Tour</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, error!</p>
+                        <a href="book.php" class="btn">Book Now</a>
+                    </div>
+                </div>
+
+                <div class="box">
+                    <div class="image">
+                        <img src="img/img-12.jpg" alt="">
+                    </div>
+                    <div class="content">
+                        <h3>Adventura & Tour</h3>
+                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci, error!</p>
+                        <a href="book.php" class="btn">Book Now</a>
+                    </div>
+                </div>
+            </div>
+            <div class="load-more"><span class="btn">Load More</span></div>
+    </section>
+    <!--Packages Sections Ends-->
+
     <!--Footer Section Starts-->
     <section class="footer">
         <div class="box-container">
