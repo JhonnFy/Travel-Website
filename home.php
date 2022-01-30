@@ -31,7 +31,6 @@
         <div id="menu-btn" class="fas fa-bars"></div>
     </section>
     <!--Header Section Ends-->
-
     
 
     <!--Home Section Starts-->
@@ -125,7 +124,7 @@
         </div>
     </section>
     <!--Home About Section Ends-->
-
+    
     <!--Home Packages Section Starts-->
     <section class="home-packages">
         <h1 class="heading-tittle">Our Packages</h1>
@@ -228,5 +227,4 @@
     <script src="js/script.js"></script>
 
 </body>
-
 </html>
