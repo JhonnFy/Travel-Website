@@ -14,7 +14,6 @@
     <!--Css Link-->
     <link rel="stylesheet" href="css/style.css">
 </head>
-
 <body>
     
     <!--Header Section Starts-->
@@ -65,8 +64,98 @@
     </section>
     <!--About Section Ends-->
 
+    <!--Reviews Section Starts-->
+    <section class="reviews">
 
+    <h1 class="heading-title">Clients Reviews</h1>
 
+        <div class="swiper reviews-slider">
+            <div class="swiper-wrapper">
+
+                <div class="swiper-slide slide">
+                    <div class="stars">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, ea cum distinctio reprehenderit nemo ipsa similique? Tempore ducimus impedit numquam. Id alias architecto porro aperiam asperiores! Quibusdam libero corporis debitis?</p>
+                    <h3>John Deo</h3>
+                    <span>traveler</span>
+                    <img src="img/pic-1.png" alt="">
+                </div>
+
+                <div class="swiper-slide slide">
+                    <div class="stars">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Numquam asperiores itaque natus id corporis aliquid sunt quibusdam voluptates repellat, labore eligendi dignissimos? Delectus alias illo nulla modi, blanditiis asperiores libero itaque laborum? Vel excepturi soluta tempore. Esse itaque soluta placeat.</p>
+                    <h3>John Deo</h3>
+                    <span>traveler</span>
+                    <img src="img/pic-2.png" alt="">
+                </div>
+
+                <div class="swiper-slide slide">
+                    <div class="stars">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores, ea cum distinctio reprehenderit nemo ipsa similique? Tempore ducimus impedit numquam. Id alias architecto porro aperiam asperiores! Quibusdam libero corporis debitis?</p>
+                    <h3>John Deo</h3>
+                    <span>traveler</span>
+                    <img src="img/pic-3.png" alt="">
+                </div>
+
+                <div class="swiper-slide slide">
+                    <div class="stars">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquam atque quisquam dolorem id ex ad?</p>
+                    <h3>John Deo</h3>
+                    <span>traveler</span>
+                    <img src="img/pic-4.png" alt="">
+                </div>
+
+                <div class="swiper-slide slide">
+                    <div class="stars">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi, dignissimos ab perferendis porro earum adipisci odit quis aliquam exercitationem? Deserunt, explicabo expedita ipsum distinctio ullam doloremque adipisci asperiores laudantium voluptatum minus commodi ducimus minima aut.</p>
+                    <h3>John Deo</h3>
+                    <span>traveler</span>
+                    <img src="img/pic-5.png" alt="">
+                </div>
+
+                <div class="swiper-slide slide">
+                    <div class="stars">
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                        <i class="fas fa-star"></i>
+                    </div>
+                    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Rem exercitationem tempora obcaecati. Aliquam ducimus delectus beatae incidunt, molestias quia repellat.</p>
+                    <h3>John Deo</h3>
+                    <span>traveler</span>
+                    <img src="img/pic-6.png" alt="">
+                </div>
+
+            </div>     
+        </div>
+    </section> 
+    <!-- Reviews Section Ends -->
 
 
 
