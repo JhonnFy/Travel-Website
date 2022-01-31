@@ -36,6 +36,53 @@
         <h1>Book Now</h1>
     </div>
 
+    <!--Booking Section Starts-->
+    <section class="booking">
+            <h1 class="heading-title">Book Your Trip!</h1>
+            <form action="book_form.php" method="post" class="book-form">
+
+                <div class="flex">
+                    <div class="inputBox">
+                        <span>¿Name?</span>
+                        <input type="text" placeholder="Enter Your Name" name="name">
+                    </div>
+                    <div class="inputBox">
+                        <span>¿Email?</span>
+                        <input type="email" placeholder="Enter Your Email" name="email">
+                    </div>
+                    <div class="inputBox">
+                        <span>¿Phone?</span>
+                        <input type="number" placeholder="Enter Your Number" name="number">
+                    </div>
+                    <div class="inputBox">
+                        <span>¿Address?</span>
+                        <input type="text" placeholder="Enter Your Address" name="address">
+                    </div>
+                    <div class="inputBox">
+                        <span>¿Where To?</span>
+                        <input type="text" placeholder="Place You To Visit" name="location">
+                    </div>
+                    <div class="inputBox">
+                        <span>¿How Many?</span>
+                        <input type="number" placeholder="Number Of Guests" name="guests">
+                    </div>
+                    <div class="inputBox">
+                        <span>¿Arrivals?</span>
+                        <input type="date"  name="arrivals">
+                    </div>
+                    <div class="inputBox">
+                        <span>¿Leaving?</span>
+                        <input type="date"  name="leaving">
+                    </div>
+                </div>  
+                
+                <input type="submit" value="submit" class="btn" name="send">
+
+            </form>
+    </section>
+    <!--Booking Section Ends-->
+
+
     <!--Footer Section Starts-->
     <section class="footer">
         <div class="box-container">
