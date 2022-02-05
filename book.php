@@ -52,7 +52,7 @@
                     </div>
                     <div class="inputBox">
                         <span>¿Phone?</span>
-                        <input type="number" placeholder="Enter Your Number" name="number">
+                        <input type="number" placeholder="Enter Your Number" name="phone">
                     </div>
                     <div class="inputBox">
                         <span>¿Address?</span>
