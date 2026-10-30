@@ -51,15 +51,15 @@ Here are some screenshots showcasing the website's interface and design.
 
 ### Preview 1
 
-![Travel Website Preview 1](https://github.com/JhonnFy/Travel-Website/assets/97255802/b977767b-c756-4090-8114-0e02197cfd9a)
+![Travel 1 Website Preview](https://github.com/JhonnFy/Travel-Website/assets/97255802/b977767b-c756-4090-8114-0e02197cfd9a)
 
 ### Preview 2
 
-![Travel Website Preview 2](https://github.com/JhonnFy/Travel-Website/assets/97255802/cc182449-2de9-4238-a88f-4031368b7797)
+![Travel 2 Website Preview](https://github.com/JhonnFy/Travel-Website/assets/97255802/cc182449-2de9-4238-a88f-4031368b7797)
 
 ### Preview 3
 
-![Travel Website Preview 3](https://github.com/JhonnFy/Travel-Website/assets/97255802/7a1a2983-25b5-42e3-8a18-8e427b5310be)
+![Travel 3 Website Preview](https://github.com/JhonnFy/Travel-Website/assets/97255802/7a1a2983-25b5-42e3-8a18-8e427b5310be)
 
 ## Contributions
 
@@ -71,4 +71,3 @@ This project is licensed under the MIT License.
 
 ---
 
-Developed by [JhonnFy](https://github.com/JhonnFy).
